@@ -32,7 +32,7 @@ Atualmente o projeto conta com:
 
 Tela inicial de login:
 
-![Login](./src/assets/preview-login.png)
+<img width="2048" height="1043" alt="image" src="https://github.com/user-attachments/assets/23b0dc3b-1dbf-4e26-9cf0-b1e88fddacd8" />
 
 ---
 
@@ -41,6 +41,4 @@ Tela inicial de login:
 1. Clone este repositório:
    ```bash
    git clone https://github.com/SEU_USUARIO/Projeto_Blog_Pessoal_Front.git
-
-<img width="2048" height="1043" alt="image" src="https://github.com/user-attachments/assets/23b0dc3b-1dbf-4e26-9cf0-b1e88fddacd8" />
 
