@@ -41,3 +41,6 @@ Tela inicial de login:
 1. Clone este repositório:
    ```bash
    git clone https://github.com/SEU_USUARIO/Projeto_Blog_Pessoal_Front.git
+
+   <img width="2048" height="1043" alt="image" src="https://github.com/user-attachments/assets/11c090b0-af5e-49c3-b8c7-42106a1d3ba1" />
+
