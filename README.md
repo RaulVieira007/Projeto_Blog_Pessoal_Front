@@ -42,5 +42,5 @@ Tela inicial de login:
    ```bash
    git clone https://github.com/SEU_USUARIO/Projeto_Blog_Pessoal_Front.git
 
-   <img width="2048" height="1043" alt="image" src="https://github.com/user-attachments/assets/11c090b0-af5e-49c3-b8c7-42106a1d3ba1" />
+<img width="2048" height="1043" alt="image" src="https://github.com/user-attachments/assets/23b0dc3b-1dbf-4e26-9cf0-b1e88fddacd8" />
 
